@@ -1,3 +1,5 @@
+pub mod hackerrank;
+
 fn main() {
     println!("--- Section 3 ---");
     section3();
